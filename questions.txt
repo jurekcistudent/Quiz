@@ -2,3 +2,31 @@ What is the capital of Ireland?
 Dublin
 What is the capital of France?
 Paris
+What is the capital of United Kingdom?
+London
+What is the capital of United States?
+Washington D.C.
+What is the capital of Sweden?
+Stockholm
+What is the capital of Singapore?
+Singapore
+What is the capital of Thailand?
+Bangkok
+What is the capital of Netherlands?
+Amsterdam
+What is the capital of Mexico?
+Mexico City
+What is the capital of Germany?
+Berlin
+What is the capital of Greece?
+Athens
+What is the capital of Italy?
+Rome
+What is the capital of Japan?
+Tokyo
+What is the capital of Jamaica?
+Kingston
+What is the capital of Belgium?
+Brussels
+What is the capital of Russia?
+Moscow
